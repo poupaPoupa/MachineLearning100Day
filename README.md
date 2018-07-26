@@ -8,5 +8,5 @@
 
 ### Day 1: February 25, 2018:
 **Today's Progress:** 
-  - Took the naive bayes course on line.  
+  - Took the naive bayes course online.  
 **Thoughts**: i didn't get to finish the course but i did .81 of it.
