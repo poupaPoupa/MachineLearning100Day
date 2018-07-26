@@ -15,4 +15,5 @@
 **Today's Progress:** 
   - Completed the course on the NAIVE BAYES algorithm.
   - Working on a mini project on python to apply and solidify  what i learnt on naive bayes.
-**Thoughts**: Still didn't finish the practive session with the algorithm.
+  
+**Thoughts**: Still didn't finish the practice session with the algorithm.
