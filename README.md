@@ -17,3 +17,9 @@
   - Working on a mini project on python to apply and solidify  what i learnt on naive bayes.
   
 **Thoughts**: Still didn't finish the practice session with the algorithm.
+
+
+### Day 3: July 31, 2018:
+**Today's Progress:** 
+  - Completed the naive bayes project.
+**Thoughts**: back on track!
