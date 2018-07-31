@@ -21,5 +21,6 @@
 
 ### Day 3: July 31, 2018:
 **Today's Progress:** 
-  - Completed the naive bayes project.
+  - Completed the naive bayes project in python using sklearn.
+  
 **Thoughts**: back on track!
