@@ -24,3 +24,10 @@
   - Completed the naive bayes project in python using sklearn.
   
 **Thoughts**: back on track!
+
+### Day 3: August 1, 2018:
+**Today's Progress:** 
+  - Brushing up on svm with an online course.
+  - Coding some examples of svm using sklearn library with python
+  
+**Thoughts**: i completed 40% of the course, 60% to gooo.....
